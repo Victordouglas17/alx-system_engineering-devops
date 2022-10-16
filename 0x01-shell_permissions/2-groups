@@ -1,2 +1,2 @@
 #!/bin/bash
-ig -gn
+id -Gn
