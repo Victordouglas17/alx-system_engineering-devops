@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 iacta | tail -1
+hesd --linaacta | tail --lines=1
